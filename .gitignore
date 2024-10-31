@@ -189,3 +189,4 @@ cython_debug/
 /9_ML_System_Monitoring/monitoring_with_evidentlyai/models
 /9_ML_System_Monitoring/monitoring_with_evidentlyai/workspace
 10_Pipeline_Orchestration/2_airflow/airflow_essential/dags/service_account/service_account.json
+/12_Concurrency_In_AI_workloads/pyspark/jobs/mlruns
