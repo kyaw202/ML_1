@@ -66,10 +66,10 @@ This repository contains materials for the "Machine Learning Systems for Product
 |6-10-2024| ML Systems Monitoring Part-2 |- Evidentlyai Report <br> - Evidentlyai data drift sample <br> - Sample logging and monitoring with grafana|[Day-25](https://youtu.be/LQPv1MGqieo)|
 |12-10-2024| ML Systems Monitoring Part-3 |- How to use Evidentlyai for real world case. <br> - Introduction to Prefectio |[Day-26](https://youtu.be/YAz1-LwG0FU)|
 |13-10-2024| Data Orchestration Part-1 |- Prefect deployment and Scheduling <br> - Introduction to Data Orchestration <br> - MLOps system levels <br> - Introduction to Airflow| [Day-27](https://youtu.be/BGhwjB05DVA) |
-|19-10-2024| Continous Training for ML Systems-1 |-----|-----|
-|20-10-2024| Continous Training for ML Systems-2|-----|-----|
-|26-10-2024| Kubernetes Basic-1| - | -|
-|27-10-2024| Kubernetes Basic-2| - | -|
+|19-10-2024| Data Orchestration Part-2 | - Airflow DAGs<br> - PythonOperator<br>- Airflow Bitshift Task dependencies<br> - Airflow decorators and Taskflow API <br>- Metadatabase in Airflow and Xcom |[Day-28](https://youtu.be/PESXwSWUqJU)|
+|20-10-2024| Data Orchestration Part-3 |- Scheduler in Airflow.<br> - Airflow Variable vs dot Env Variables <br> - PythonSensor <br> - FileSenso|[Day-29](https://youtu.be/sXUcSei7i8Y)|
+|26-10-2024| Data Orchestration Part-4 | - Airflow Custom Setup <br> - Google Object Storage Scanner. | [Day-30](https://youtu.be/QC20Y7MAVg8)|
+|27-10-2024| Distributed training in ML Part-1| - Spark Introduction.<br >- Kubernetes vs managed Instance Group (MIG)<br> - Databricks Community Edition.<br> - Setup custom spark cluster. | [Day-31](https://youtu.be/Gnu0cY0Dwbk) |
 
 
 
@@ -77,8 +77,8 @@ This repository contains materials for the "Machine Learning Systems for Product
 ##### Category : <b> MLOps Tools, Cloud Basic, Advance AI </b>
 |Date | Title | Description | Reference |
 |-----|-----|-----|-----|
-| 2-11-2024| Terraform with GCP | - | - |
-| 3-11-2024| Terraform with AWS | - | - |
+| 2-11-2024| Distributed training in ML Part-2 | - Spark Master vs Spark workers<br> - Spark vs Pandas on Spark API<br> - MLflow in Spark<br> - Hyperopt on Spark Cluster | [Day-32](https://youtu.be/rZOKio7JZ0A) |
+| 3-11-2024| Distributed training in ML Part-3 | - Spark Master vs Spark workers<br> - Spark vs Pandas on Spark API<br> - MLflow in Spark <br> - Hyperopt on Spark Cluster | [Day-33](https://youtu.be/0pvjNX8TovU) |
 | 9-11-2024| Unit Testing and Integration Testing | - | - |
 | 10-11-2024| Code quality checking | - | - |
 | 16-11-2024| Meachine Learning System best practice-1 | Putting all the things that we learned to get better ML System. | - |
