@@ -79,8 +79,8 @@ This repository contains materials for the "Machine Learning Systems for Product
 |-----|-----|-----|-----|
 | 2-11-2024| Distributed training in ML Part-2 | - Spark Master vs Spark workers<br> - Spark vs Pandas on Spark API<br> - MLflow in Spark<br> - Hyperopt on Spark Cluster | [Day-32](https://youtu.be/rZOKio7JZ0A) |
 | 3-11-2024| Distributed training in ML Part-3 | - Spark Master vs Spark workers<br> - Spark vs Pandas on Spark API<br> - MLflow in Spark <br> - Hyperopt on Spark Cluster | [Day-33](https://youtu.be/0pvjNX8TovU) |
-| 9-11-2024| Unit Testing and Integration Testing | - | - |
-| 10-11-2024| Code quality checking | - | - |
+| 9-11-2024| DS Training and RAG Part-1 | - TF tensor input model flavors with MLflow Generic Model<br>- Distibuted Training With Hyperparameter tuning using Hyperopt and MLflow <br>Distibuted Training With Hyperparameter tuning and Generic Model Flavors <br> Introduction to RAG  | [Day-34](https://youtu.be/nonExCp9APs) |
+| 10-11-2024| RAG Part-2 | -Introduction to RAG<br> -FAISS and Vector Databases<br>- RAG vs Agent <br>- RAG Coding | [Day-35](https://youtu.be/hA-kQCt3aik) |
 | 16-11-2024| Meachine Learning System best practice-1 | Putting all the things that we learned to get better ML System. | - |
 | 17-11-2024| Meachine Learning System best practice-2 | Putting all the things that we learned to get better ML System. | - |
 | 23-11-2024| Knowledge Distillation | - | - |
@@ -124,3 +124,4 @@ If you're interested in my course, feel free to connect with me.
 ### - [Secure MLflow server setup for production](https://github.com/tharhtetsan/Secure-MLflow-Server-for-production)
 ### - [Distributed training with Custom Spark Cluster](https://github.com/tharhtetsan/Custom-Apache-Spark-Cluster-run-databricks-locally)
 ### - [RAG-for-NPC-Game-Characters](https://github.com/tharhtetsan/RAG-for-NPC-Game-Characters/tree/main)
+### - [Agentic RAG for Real world problem]
