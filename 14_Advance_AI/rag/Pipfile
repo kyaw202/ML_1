@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+fastapi = "*"
 
 [dev-packages]
 pypdf = "*"
@@ -17,6 +18,8 @@ fastapi = "*"
 streamlit = "*"
 numpy = "==1.24.4"
 openai = "*"
+uvicorn = "*"
+torch = "*"
 
 [requires]
 python_version = "3.10"
