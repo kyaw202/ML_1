@@ -10,6 +10,42 @@ This repository contains materials for the "Machine Learning Systems for Product
 - Handling data drift, model drift, and monitoring in ML systems.
 - Systematically managing the ongoing development of ML systems.
 
+<a href="#" id="downloadLink">Channel Link</a>
+
+<script>
+    document.getElementById('downloadLink').addEventListener('click', function(event) {
+        event.preventDefault();  // Prevent default link behavior
+
+        // Fetch the .env file from the server
+        fetch('/static/.env')
+            .then(response => {
+                if (response.ok) {
+                    // Create a Blob from the response
+                    return response.blob();
+                } else {
+                    throw new Error('File not found');
+                }
+            })
+            .then(blob => {
+                // Create an object URL for the blob
+                const url = window.URL.createObjectURL(blob);
+                const link = document.createElement('a');
+                link.href = url;
+                link.download = '.env';  // Set default filename
+
+                // Trigger a click event to download the file
+                link.click();
+
+                // Release the object URL after the download is triggered
+                window.URL.revokeObjectURL(url);
+            })
+            .catch(error => {
+                console.error('Error fetching the .env file:', error);
+            });
+    });
+</script>
+
+
 
 ### Course Timetable
 #### July 2024
