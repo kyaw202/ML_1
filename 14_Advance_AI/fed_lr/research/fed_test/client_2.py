@@ -29,7 +29,7 @@ class FlowerClient(NumPyClient):
     def __init__(self):
         self.model = tf_data_and_model.load_model()
         self.x_train, self.y_train, self.x_test, self.y_test = x_train_2, y_train_2,x_test_2, y_test_2
-        self.epochs = 5
+        self.epochs = 10
         self.batch_size = 32
         self.verbose = 2
 
@@ -47,11 +47,15 @@ class FlowerClient(NumPyClient):
     def evaluate(self, parameters, config):
         self.model.set_weights(parameters)
         loss, accuracy = self.model.evaluate(self.x_test, self.y_test, verbose=0)
+        print("client_2 loss : ",loss)
+        print("client_2 accuracy : ",accuracy)
+        
         return loss, len(self.x_test), {"accuracy": accuracy}
 
 
-
+client_2 = FlowerClient()
 fl.client.start_numpy_client(
     server_address="localhost:8080",
-    client=FlowerClient(),
+    client=client_2,
 )
+client_2.model.save("client_2.h5")
