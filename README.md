@@ -82,25 +82,18 @@ This repository contains materials for the "Machine Learning Systems for Product
 | 3-11-2024| Distributed training in ML Part-3 | - Spark Master vs Spark workers<br> - Spark vs Pandas on Spark API<br> - MLflow in Spark <br> - Hyperopt on Spark Cluster | [Day-33](https://youtu.be/0pvjNX8TovU) |
 | 9-11-2024| DS Training and RAG Part-1 | - TF tensor input model flavors with MLflow Generic Model<br>- Distibuted Training With Hyperparameter tuning using Hyperopt and MLflow <br>Distibuted Training With Hyperparameter tuning and Generic Model Flavors <br> Introduction to RAG  | [Day-34](https://youtu.be/nonExCp9APs) |
 | 10-11-2024| RAG Part-2 | -Introduction to RAG<br> -FAISS and Vector Databases<br>- RAG vs Agent <br>- RAG Coding | [Day-35](https://youtu.be/hA-kQCt3aik) |
-| 16-11-2024| Meachine Learning System best practice-1 | Putting all the things that we learned to get better ML System. | - |
-| 17-11-2024| Meachine Learning System best practice-2 | Putting all the things that we learned to get better ML System. | - |
-| 23-11-2024| Knowledge Distillation | - | - |
-| 24-11-2024| Teacher and Student Network | - | - |
-| 30-11-2024| Generative AI (Image - 1) | Gen | - |
+| 16-11-2024| RAG Part-3 | - Finish NPC game character (RAG)<br>- Groq<br>- Web Scraping Logic<br>- Tavily Websearch <br>- Qdrant Vector Database | [Day-36](https://youtu.be/a5mcBqgWNCc) |
+| 17-11-2024| Agentic RAG Part-1 | - RAG Project Best Practices<br>- FastAPI Best Practices<br>- Agentic RAG theory explained<br>- Qdrant  and Usage Explain | [Day-37](https://youtu.be/GGGa8gZhVks) |
+| 23-11-2024| Agentic RAG Part-2 | - RAG Project Best Practices<br>- FastAPI Best Practices<br>- Agentic RAG theory explained<br>- Qdrant  and Usage Explain | [Day-38](https://youtu.be/HPatVTAFtd8) |
+| 24-11-2024| Custom Tool calling for Agent | Custom Tool calling for Agent<br>- Agents for Chatbots<br>- LLM tools and products<br>- CodeGPT | [Day-39](https://youtu.be/b_sSdd0Adbo) |
+| 30-11-2024| LLM Security and Safeguards | - Exploiting Text Completion in LLM models.<br>- Using biased prompt in LLM<br>- Direct Prompt Injection with Simple Method.<br>- Direct Prompt Injection with System Prompt<br>- Indirect Prompt Injection. | [Day-40](https://youtu.be/arUgW4yOoqE) |
+
 
 #### December 2024
 ##### Category : <b> MLOps Tools, Cloud Basic, Advance AI </b>
 |Date | Title | Description | Reference |
 |-----|-----|-----|-----|
-| 1-12-2024| Generative AI (Image - 2)  | UNet, Pix2Pix | - |
-| 7-12-2024| Generative AI (Image - 2) | UNet, Pix2Pix | - |
-| 8-12-2024| LangChain  | - | - |
-| 14-12-2024| LangChain  | - | - |
-| 15-12-2024| LangChain Memory Usage and Agent Creation | -| - |
-| 21-12-2024| Retrieval Augmented Generation (RAG)  | - | - |
-|22-12-2024| Project |-----|-----|
-|28-12-2024| Project Discussion |-----|-----|
-|29-12-2024| Project Discussion|-----|-----|
+| 1-12-2024| Knowledge Distillation and Fed learning Part-1  | - Tensorflow with GradientTap Method.<br>- Knowledge Distillation with Tensorflow.<br>- Federated Learning Theory Explained. | [Day-41](https://youtu.be/LQR3wdeZ-_M) |
 
 
 
@@ -118,11 +111,10 @@ This repository contains materials for the "Machine Learning Systems for Product
 If you're interested in my course, feel free to connect with me.
 
 
-
 ## Course Proejcts
 ### - [ML_in_Prod_batch_1_proj](https://github.com/tharhtetsan/ML_in_Prod_batch_1_proj)
 ### - [ML_in_Prod_batch_1_proj2](https://github.com/tharhtetsan/ML_in_Prod_batch_1_proj2)
 ### - [Secure MLflow server setup for production](https://github.com/tharhtetsan/Secure-MLflow-Server-for-production)
 ### - [Distributed training with Custom Spark Cluster](https://github.com/tharhtetsan/Custom-Apache-Spark-Cluster-run-databricks-locally)
 ### - [RAG-for-NPC-Game-Characters](https://github.com/tharhtetsan/RAG-for-NPC-Game-Characters/tree/main)
-### - [Agentic RAG for Real world problem]
+### - [Agentic RAG for Real world problem](https://github.com/tharhtetsan/Agentic_RAGs)
