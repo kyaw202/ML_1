@@ -93,7 +93,9 @@ This repository contains materials for the "Machine Learning Systems for Product
 ##### Category : <b> MLOps Tools, Cloud Basic, Advance AI </b>
 |Date | Title | Description | Reference |
 |-----|-----|-----|-----|
-| 1-12-2024| Knowledge Distillation and Fed learning Part-1  | - Tensorflow with GradientTap Method.<br>- Knowledge Distillation with Tensorflow.<br>- Federated Learning Theory Explained. | [Day-41](https://youtu.be/LQR3wdeZ-_M) |
+| 1-12-2024| Knowledge Distillation Coding and Fed learning Part-1  | - Tensorflow with GradientTap Method.<br>- Knowledge Distillation with Tensorflow.<br>- Federated Learning Theory Explained. | [Day-41](https://youtu.be/LQR3wdeZ-_M) |
+| 14-12-2024| Federated Learning in Practice | Developing Federated Learning Application using Flower Framework | [Day-42](https://youtu.be/bvG39VxS6Ro) |
+| 15-12-2024| Course Recap| Recap all theories and Coding that we have done in this course | [Day-43](https://youtu.be/WT_vYTSAPlE) |
 
 
 
